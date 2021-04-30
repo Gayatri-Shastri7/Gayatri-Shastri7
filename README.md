@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayatri Shastri</h1>
-<h3 align="center">Techno Freak</h3>
+<h3 align="center">Techno Freak and Technophile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatri-shastri7&label=Profile%20views&color=0e75b6&style=flat" alt="gayatri-shastri7" /> </p>
 
