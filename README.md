@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatri-shastri7" alt="gayatri-shastri7" /></a> </p>
 
-- 🔭 I’m currently working on **Chatbots**
 
 - ⚡ Fun fact **I think i'm funny XD**
 
