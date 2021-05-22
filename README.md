@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gayatri Shastri</h1>
 <h3 align="center">Techno Freak and Technophile</h3>
 <p> <img src="While(true){ LEARN(); SHARE(); CODE(); }.png" alt="Gayatri Shastri"></p> 
-# 👧 About Me
+# 👧 **About Me**
 
 -   🎓  I am a second year CSE undergraduate.
 -   🔨  I am a Full stack Web Developer and Data Scientist.
