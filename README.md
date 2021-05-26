@@ -1,6 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Gayatri Shastri</h1>
 <h3 align="center">Techno Freak and Technophile</h3>
 <p> <img src="While(true){ LEARN(); SHARE(); CODE(); }.png" alt="Gayatri Shastri"></p> 
+
  # *About Me*
 
 -   🎓  I am a second year CSE undergraduate.
