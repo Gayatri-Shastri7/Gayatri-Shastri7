@@ -23,7 +23,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatri-shastri7&show_icons=true&locale=en&layout=compact" alt="gayatri-shastri7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatri-shastri7&show_icons=true&locale=en&layout=compact" alt="gayatri-shastri7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayatri-shastri7&show_icons=true&locale=en" alt="gayatri-shastri7" /></p>
 
