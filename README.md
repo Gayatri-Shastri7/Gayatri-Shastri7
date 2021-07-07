@@ -6,7 +6,7 @@
 
 -   🎓  I am a second year CSE undergraduate.
 -   💗  I love hackathons for bringing my ideas to life.
--   ⚡ Fun fact **I think i'm funny XD**
+-   ⚡  **I'm currently learning ML, Django**
 -   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatri-shastri7&label=Profile%20views&color=0e75b6&style=flat" alt="gayatri-shastri7" /> </p>
 
 # *Internships*
