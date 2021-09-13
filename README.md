@@ -23,6 +23,8 @@
 
 # *Additional Information*
 
+[![Gayatri's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gayatri-Shastri7&theme=dracula)](https://github.com/Gayatri-Shastri7/github-readme-activity-graph)
+
 
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api?username=gayatri-shastri7&show_icons=true&locale=en"  alt="gayatri-shastri7" /></p>
 
