@@ -6,7 +6,7 @@
 
 -   🎓  I am a third year CSE undergraduate.
 -   💗  I love hackathons for bringing my ideas to life.
--   ⚡  **I'm currently learning ML, Spring Boot**
+-   ⚡  **I'm currently learning React**
 -   👩🏽‍💻  I’m looking to collaborate on ML, WebDeveploment projects
 -   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatri-shastri7&label=Profile%20views&color=0e75b6&style=flat" alt="gayatri-shastri7" /> </p>
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api?username=gayatri-shastri7&show_icons=true&locale=en"  alt="gayatri-shastri7" /></p>
@@ -16,7 +16,6 @@
 -   📊 Worked as Data Science Intern at Intrinsic Science Labs.
 -   💻 Worked as Web Developer Intern at Save The Paws.
 -   Here is the link for website (https://www.savethepawsinfo.org.in/)
-
 
 # *Languages and Tools*
 <br>
