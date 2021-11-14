@@ -17,12 +17,6 @@
 -   💻 Worked as Web Developer Intern at Save The Paws.
 -   Here is the link for website (https://www.savethepawsinfo.org.in/)
 
-# *Connect with me*
-
-<a href="https://twitter.com/GayatriShastri7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GayatriShastri7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gayatri777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gayatri777" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gayatrishastri777/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gayatrishastri777/profile" height="30" width="40" /></a>
-</p>
 
 # *Languages and Tools*
 <br>
