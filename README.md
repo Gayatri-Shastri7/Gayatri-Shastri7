@@ -10,7 +10,7 @@
 -   👩🏽‍💻  I’m looking to collaborate on ML, WebDeveploment projects
 -   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatri-shastri7&label=Profile%20views&color=0e75b6&style=flat" alt="gayatri-shastri7" /> </p>
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api?username=gayatri-shastri7&show_icons=true&locale=en"  alt="gayatri-shastri7" /></p>
--   **My Portfolio**  -- >  https://portfolio-sigma-henna.vercel.app/project
+  **My Portfolio**  -- >  https://portfolio-sigma-henna.vercel.app
   
 # *Internships*
 
