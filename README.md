@@ -5,7 +5,7 @@
  # *About Me*
 
 -   🎓  I am a third year CSE undergraduate.
--   💗  I love hackathons for bringing my ideas to life.
+-   💗  I love hackathons for bringing my ideas to life. 
 -   ⚡  **I'm currently learning React,DSA**
 -   👩🏽‍💻  I’m looking to collaborate on ML, Web-Deveploment projects
 -   👩‍💻 All of my projects are available in my Github Profile -> https://github.com/Gayatri-Shastri7?tab=repositories
@@ -16,6 +16,7 @@
   
 # *Internships*
 
+-   💻 Currently working as Machine Learning Engineer intern at SmartBridge
 -   📊 Worked as Data Science Intern at Intrinsic Science Labs.
 -   💻 Worked as Web Developer Intern at Save The Paws.
 -   Here is the link for website (https://www.savethepawsinfo.org.in/)
