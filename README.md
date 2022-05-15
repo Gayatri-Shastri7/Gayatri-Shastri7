@@ -8,7 +8,7 @@
 -   💗  I love hackathons for bringing my ideas to life. 
 -   ⚡  **I'm currently learning React,DSA**
 -   👩🏽‍💻  I’m looking to collaborate on ML, Web-Deveploment projects
--   👩‍💻 All of my projects are available in my Github Profile -> https://github.com/Gayatri-Shastri7?tab=repositories
+
 
 -   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatri-shastri7&label=Profile%20views&color=0e75b6&style=flat" alt="gayatri-shastri7" /> </p>
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api?username=gayatri-shastri7&show_icons=true&locale=en"  alt="gayatri-shastri7" /></p>
