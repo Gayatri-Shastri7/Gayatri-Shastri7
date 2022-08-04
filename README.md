@@ -4,7 +4,7 @@
 
  # *About Me*
 
--   🎓  I am a third year CSE undergraduate.
+-   🎓  I am a final year CSE undergraduate.
 -   💗  I love hackathons for bringing my ideas to life. 
 -   ⚡  **I'm currently learning React,DSA**
 -   👩🏽‍💻  I’m looking to collaborate on ML, Web-Deveploment projects
