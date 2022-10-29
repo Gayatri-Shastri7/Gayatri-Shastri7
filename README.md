@@ -15,7 +15,6 @@
 
   
 # *Internships*
--   💻 Worked as Software Engineering Intern(Summer Intern) at JPMorgan Chase & Co.
 -   💻 Worked as Machine Learning Engineer intern at SmartBridge
 -   📊 Worked as Data Science Intern at Intrinsic Science Labs.
 -   💻 Worked as Web Developer Intern at Save The Paws.
