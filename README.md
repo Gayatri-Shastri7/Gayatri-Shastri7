@@ -4,10 +4,10 @@
 
  # *About Me*
 
--   🎓  I am a final year CSE undergraduate.
--   💗  I love hackathons for bringing my ideas to life. 
--   ⚡  **I'm currently learning React,DSA**
--   👩🏽‍💻  I’m looking to collaborate on ML, Web-Deveploment projects
+-   🎓 CSE undergraduate passionate about technology.
+-   💗 Enthusiastic about hackathons as a platform to bring ideas to life.
+-   ⚡ Constantly exploring and learning across various domains.
+-   👩🏽‍💻 Eager to collaborate on projects involving ML and Web Development.
 
 
 -   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatri-shastri7&label=Profile%20views&color=0e75b6&style=flat" alt="gayatri-shastri7" /> </p>
@@ -16,8 +16,10 @@
   
 # *Internships*
 
--   📊 Worked as Software Engineer Intern(Summer Intern) @ J.P Morgan Chase & Co.
--   💻 Worked as Machine Learning Engineer intern at SmartBridge 
+-   📊 Worked as Software Engineer Intern @ J.P Morgan Chase & Co.
+-   💻 Worked as Software Engineer Intern(Summer Intern) @ J.P Morgan Chase & Co.
+-   📊 Worked as Machine Learning Engineer intern at SmartBridge
+-   💻 Worked as Research Assistant at Intrinsic Science Labs. 
 -   📊 Worked as Data Science Intern at Intrinsic Science Labs. 
 -   💻 Worked as Web Developer Intern at Save The Paws.
 
