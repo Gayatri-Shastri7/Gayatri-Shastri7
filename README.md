@@ -17,12 +17,12 @@
 
 Worked As: 
 
--  📊 Software Engineer Intern @ J.P Morgan Chase & Co.
--  💻 Software Engineer Intern (Summer Intern) @ J.P Morgan Chase & Co.
--  📊 Machine Learning Engineer Intern @ SmartBridge
--  💻 Research Assistant @ Intrinsic Science Labs
--  📊 Data Science Intern @ Intrinsic Science Labs
--  💻 Web Developer Intern @ Save The Paws
+-  📊 Software Engineer Intern @ **J.P Morgan Chase & Co.**
+-  💻 Software Engineer Intern (Summer Intern) @ **J.P Morgan Chase & Co.**
+-  📊 Machine Learning Engineer Intern @ **SmartBridge**
+-  💻 Research Assistant @ **Intrinsic Science Labs**
+-  📊 Data Science Intern @ **Intrinsic Science Labs**
+-  💻 Web Developer Intern @ **Save The Paws**
 
 # 🛠️ *My Skills*
 
