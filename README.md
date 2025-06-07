@@ -66,3 +66,13 @@ Worked As:
 ![REST API](https://img.shields.io/badge/REST_API-0096D6?style=flat&logo=api&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-FFA500?style=flat&logo=python&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=flat&logo=python&logoColor=white)
+
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+   <a href="https://leetcode.com/gayatri777/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/gayatri777/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/gayatri777/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/gayatri777/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/gayatri777/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
