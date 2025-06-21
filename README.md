@@ -68,9 +68,17 @@ Worked As:
 
   <h2 align="center">⚡ Current Statistics ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gayatri-Shastri7&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayatri-Shastri7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Gayatri-Shastri7&show_icons=true&count_private=true&theme=react" 
+    height="180"
+    alt="stats graph" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Gayatri-Shastri7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" 
+    height="180" 
+    alt="languages graph" 
+  />
 </div>
 <br/>
 
